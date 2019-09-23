@@ -5,12 +5,10 @@ fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent;}
 
 ol, ul {list-style: none;}
-a:link { color: gray; }
+a:link { color: #808080; }
 a:visited { color: #d8f2da; }
-a:hover { color: gray; filter: alpha(opacity=50);
-    -moz-opacity: 0.5;
-    opacity: 0.5;}
-a:active { color: gray; }
+a:hover { color: #808080; filter: alpha(opacity=50); -moz-opacity: 0.5; opacity: 0.5;}
+a:active { color: #808080; }
 
 /*** 全体 ***/
 html {
